@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Property Rental project<br>🤝 I’m looking for help with any ongoing projects<br>🌱 I’m currently learning angular<br>💬 Ask me about tech
+🔭 I’m a geophysicist who is interested in coding<br>🤝 I’m looking for help with any ongoing projects<br>🌱 I’m currently learning angular<br>💬 Ask me about tech
 
 
 # 💻 Tech Stack:
